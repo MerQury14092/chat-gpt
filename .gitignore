@@ -19,6 +19,9 @@ target/
 *.iml
 *.ipr
 
+### scripts
+scripts/manual-deploy.sh
+
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/
